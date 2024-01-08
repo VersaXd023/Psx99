@@ -1,2 +1,0 @@
-# Psx99
-Script
